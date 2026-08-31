@@ -1,0 +1,2 @@
+This is my Git CLI assignment.
+This file was created after cloning the repository.
